@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class Me {
+public class Me {
+    public static void sayName() {
+        System.out.println("Daniel Banmeke");
+    }
+    public static void sayAge() {
+        System.out.println("27");
+    }
 }
